@@ -7,13 +7,7 @@ Bu proje, Python dilini kullanarak geliştirilen basit bir sayı tahmin oyunudur
 🐍 Oyun, kullanıcının belirli bir aralıktaki bir sayıyı tahmin etmesini gerektirir ve doğru tahmin edildiğinde tebrik mesajı verir. 🎉
 # Nasıl Çalışır ? 🕹️
 
-Oyun başladığında, bilgisayar rastgele bir sayı seçer (1 ile 100 arasında) 🎯
-Kullanıcıya, seçilen sayıyı tahmin etmesi için talimatlar verilir. 📝
-Kullanıcı, her tahmininde seçilen sayıya yaklaştığını veya uzaklaştığını görmek için geri bildirim alır. 🔄
-Kullanıcının tahmini doğruysa, tebrik mesajıyla oyun sonlanır. 🎊
-Kullanıcının tahmini yanlışsa, daha fazla tahmin hakkı kaldığını ve daha yüksek veya düşük bir sayı denemesi gerektiğini belirten mesajlar alır. ⬆️⬇️
-Tahmin hakkı tamamen tükenene kadar kullanıcıya yeni tahminler yapma imkanı verilir. ⏰
-Tahmin hakkı tükendiğinde, kullanıcı kaybettiğine dair bir mesajla oyun sonlanır. 😔
+
 
 
 <div align="center">
